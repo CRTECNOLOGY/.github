@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=🚀+Welcome+to+CR+TECNOLOGY;💡+Turning+every+idea+into+reality;🎨+Where+creativity+meets+code;📱+Apps+%7C+Web+%7C+Design+%7C+Multimedia;🌎+Building+what+others+only+imagine" alt="Animated Titles" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Welcome+to+CR+TECNOLOGY;Turning+Every+Idea+Into+Reality;Where+Creativity+Meets+Code;Apps+%7C+Web+%7C+Design+%7C+Multimedia;Building+What+Others+Only+Imagine" alt="Animated Titles" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4500&pause=1800&color=9B8FFF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=⚡+We+don't+just+talk+about+ideas+—+we+build+them;🔧+From+mobile+apps+to+3D+animations%2C+we+do+it+all;🎯+Creative+vision+%2B+technical+precision+%3D+CR+TECNOLOGY;🌐+Code+%7C+Design+%7C+Innovate+%7C+Deliver" alt="Animated Subtitles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4500&pause=1800&color=9B8FFF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=We+build+what+others+only+imagine;From+mobile+apps+to+3D+animations;Creative+vision+%2B+technical+precision;Code+%7C+Design+%7C+Innovate+%7C+Deliver" alt="Animated Subtitles" />
 
 <br/><br/>
 
