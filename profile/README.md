@@ -86,7 +86,8 @@ We'd love to hear it. Follow us, explore our repositories, and let's build somet
 
 <div align="center">
 
-[![GitHub Follow](https://img.shields.io/github/followers/CR-tecnology?label=Follow%20CR%20TECNOLOGY&style=for-the-badge&logo=github&color=181717)](https://github.com/CR-tecnology)
+[![GitHub Org](https://img.shields.io/badge/GitHub-CRTECNOLOGY-181717?style=for-the-badge&logo=github)](https://github.com/CRTECNOLOGY)
+[![Followers](https://img.shields.io/github/followers/crtecnology0-blip?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/crtecnology0-blip)
 
 </div>
 
@@ -94,7 +95,7 @@ We'd love to hear it. Follow us, explore our repositories, and let's build somet
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=5000&pause=2000&color=555577&center=true&vCenter=true&repeat=true&width=750&height=28&lines=✨+CR+Technology+—+Building+what+others+only+imagine.;🚀+One+project+at+a+time%2C+one+idea+at+a+time.;💙+Made+with+passion%2C+built+with+purpose." alt="Footer Text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=5000&pause=2000&color=555577&center=true&vCenter=true&repeat=true&width=750&height=28&lines=CR+Technology+%E2%80%94+Building+what+others+only+imagine;One+project+at+a+time%2C+one+idea+at+a+time;Made+with+passion%2C+built+with+purpose" alt="Footer Text" />
 
 </div>
 
